@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+build/
+.env
+
+# Visual Studio
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Others
+.vscode/
+
